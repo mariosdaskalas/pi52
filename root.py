@@ -1,0 +1,1 @@
+print('52 Python projects, 52 Weeks.')
